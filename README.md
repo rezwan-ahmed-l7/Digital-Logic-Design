@@ -107,11 +107,11 @@ This Capstone Project was developed collectively by our lab group:
 
 * **[Sad Udoy](https://github.com/sadudoy) (Team Leader):** HC-SR04 sonar distance computing logic, error bounds calibration, and safe-distance validations.
 
-* **Sifat:** Physical servo barrier mechanics, Git repository management, and code file merging.
+* **[Sifat](https://github.com/syedsifatalsayeed):** Physical servo barrier mechanics, Git repository management, and code file merging.
 
-* **Saccha:** Wi-Fi connection pooling, Blynk integration layout, and mobile event signal pushing.
+* **[Saccha](https://github.com/tahmidtazowar?tab=repositories):** Wi-Fi connection pooling, Blynk integration layout, and mobile event signal pushing.
 
-* **Esha:** Audio buzzer alert routines, three-phase LED signal wiring, and shared breadboard common ground management.
+* **[Esha](https://github.com/sohanasinthia):** Audio buzzer alert routines, three-phase LED signal wiring, and shared breadboard common ground management.
 
 ---
 
